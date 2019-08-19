@@ -32,3 +32,9 @@ There are 2 columns that holds lists of ids and locations and a single column th
 ## Data Visualization
 
 THe Plotly map shows the states where the retweets came from. Run the map plot function for each of the candidates to get the representative map. The two histograms reveals the favorite and retweet counts of all 20 tweets by each candidate and the breakdown of states where the retweets came from for the most retweeted message.
+
+![plotly map](/images/plotly_map.png)
+
+![favorite retweet histogram](/images/fave_retweet_histogram.png)
+
+![retweet histogram](/images/retweet_histogram.png)
